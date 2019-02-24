@@ -35,10 +35,12 @@
 /Users/cpradeep/Projects/RESTest/RESTest.Android/obj/Debug/R.txt
 /Users/cpradeep/Projects/RESTest/RESTest.Android/obj/Debug/uploadflags.txt
 /Users/cpradeep/Projects/RESTest/RESTest.Android/bin/Debug/Mono.Android.pdb
+/Users/cpradeep/Projects/RESTest/RESTest.Android/bin/Debug/Newtonsoft.Json.pdb
 /Users/cpradeep/Projects/RESTest/RESTest.Android/bin/Debug/Xamarin.Forms.Core.pdb
 /Users/cpradeep/Projects/RESTest/RESTest.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
 /Users/cpradeep/Projects/RESTest/RESTest.Android/obj/Debug/linksrc/RESTest.Android.pdb
 /Users/cpradeep/Projects/RESTest/RESTest.Android/obj/Debug/linksrc/Mono.Android.pdb
+/Users/cpradeep/Projects/RESTest/RESTest.Android/obj/Debug/linksrc/Newtonsoft.Json.pdb
 /Users/cpradeep/Projects/RESTest/RESTest.Android/obj/Debug/linksrc/RESTest.pdb
 /Users/cpradeep/Projects/RESTest/RESTest.Android/obj/Debug/linksrc/Xamarin.Forms.Core.pdb
 /Users/cpradeep/Projects/RESTest/RESTest.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.pdb
