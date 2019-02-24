@@ -1,0 +1,11 @@
+/Users/cpradeep/Projects/RESTest/RESTest/bin/Debug/netstandard2.0/RESTest.deps.json
+/Users/cpradeep/Projects/RESTest/RESTest/bin/Debug/netstandard2.0/RESTest.dll
+/Users/cpradeep/Projects/RESTest/RESTest/bin/Debug/netstandard2.0/RESTest.pdb
+/Users/cpradeep/Projects/RESTest/RESTest/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/cpradeep/Projects/RESTest/RESTest/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/cpradeep/Projects/RESTest/RESTest/obj/Debug/netstandard2.0/RESTest.csproj.CoreCompileInputs.cache
+/Users/cpradeep/Projects/RESTest/RESTest/obj/Debug/netstandard2.0/RESTest.AssemblyInfoInputs.cache
+/Users/cpradeep/Projects/RESTest/RESTest/obj/Debug/netstandard2.0/RESTest.AssemblyInfo.cs
+/Users/cpradeep/Projects/RESTest/RESTest/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/cpradeep/Projects/RESTest/RESTest/obj/Debug/netstandard2.0/RESTest.dll
+/Users/cpradeep/Projects/RESTest/RESTest/obj/Debug/netstandard2.0/RESTest.pdb
